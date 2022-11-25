@@ -1,5 +1,0 @@
-# git-demo
-
-
-
-some content
